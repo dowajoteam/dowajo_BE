@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'eatRoad.apps.EatroadConfig',
+    'userapp.apps.EatroadConfig',
 ]
 
 MIDDLEWARE = [
