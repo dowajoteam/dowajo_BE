@@ -29,3 +29,5 @@ share/python-wheels/
 MANIFEST
 
 .venv
+
+secrets.json

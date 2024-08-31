@@ -19,5 +19,6 @@ from django.urls import path
 from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include('userapp.urls')),
+    path('api/user/', include('userapp.urls')),  # userapp의 URL을 포함
+    path('api/gpt/', include('gptapp.urls')),    # gptapp의 URL을 포함
 ]
