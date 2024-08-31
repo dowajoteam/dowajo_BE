@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63d6c271-3729-4b22-8e52-cb647aa4b322" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gptapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secrets_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dowajo_BE/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dowajo_BE/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dowajo_BE/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dowajo_BE/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +58,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;search&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -191,7 +186,8 @@
       <workItem from="1724918866195" duration="1955000" />
       <workItem from="1724943075139" duration="3699000" />
       <workItem from="1724950871568" duration="2000" />
-      <workItem from="1725073789089" duration="787000" />
+      <workItem from="1725073789089" duration="1008000" />
+      <workItem from="1725074803422" duration="308000" />
     </task>
     <servers />
   </component>
